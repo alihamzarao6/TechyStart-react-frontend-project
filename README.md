@@ -1,3 +1,7 @@
+A React frontend website. Can be used as Portfolio website by applying Backend. 
+You can check it out by visiting this link: https://techystarfront.vercel.app/
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
